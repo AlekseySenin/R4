@@ -1,0 +1,1 @@
+Format disk in fat32
